@@ -1,4 +1,3 @@
-
 (() => {
     let iframe = document.querySelector("iframe");
     if (!iframe) {
