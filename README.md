@@ -1,11 +1,11 @@
 # Cheats
 
 ## [Gui](gui.js)
-A GUI containing every cheat in a menu. Insructions on how to get it are on my fast ad-free website [here](https://superhackz.webnode.co.uk/blooket/).
+A GUI containing every cheat in a menu. Instructions on how to get it are on my fast ad-free website [here](https://superhackz.webnode.co.uk/blooket/).
 &nbsp;
 ## [Bookmarklets](Bookmarklets.html)
 The bookmark file can add all the cheats as individual bookmarklets to your browser.
-A guide on how to import them can be found [here](tutorial/readme.md).
+A guide on importing them can be found [here](tutorial/readme.md).
 
 ### [Brawl](brawl)
 
@@ -44,4 +44,4 @@ A guide on how to import them can be found [here](tutorial/readme.md).
 
 ### [Workshop](workshop)
 &nbsp;
-## If there is an issue with the code, [create an issue](https://github.com/SuperHackz/blooket-cheats/issues/new/choose).
+## If the code has an issue, [create an issue](https://github.com/SuperHackz/blooket-cheats/issues/new/choose).
