@@ -3,10 +3,6 @@
 ## [Gui](gui.js)
 A GUI containing every cheat in a menu. Instructions on how to get it are on my fast ad-free website [here](https://superhackz.webnode.co.uk/blooket/).
 &nbsp;
-## [Bookmarklets](Bookmarklets.html)
-The bookmark file can add all the cheats as individual bookmarklets to your browser.
-A guide on importing them can be found [here](tutorial/readme.md).
-
 ### [Brawl](brawl)
 
 
